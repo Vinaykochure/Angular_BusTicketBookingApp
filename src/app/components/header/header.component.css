@@ -1,0 +1,7 @@
+img {
+    height: 3rem;
+}
+
+.navbar-brand:hover {
+    color: rgb(5, 78, 196);
+}
